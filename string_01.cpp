@@ -8,7 +8,7 @@ int main(){
     
     string s;
     
-    s = str1+str2; // 1251 0r 63 ??
+    s = str1+str2; // 1251 Or 63 ??
     
     cout<<"s value is : "<<s<<endl;
     
