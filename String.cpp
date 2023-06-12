@@ -30,5 +30,4 @@ output is : pratham
 second letter of string s1 is : r
 lenght of the given string is : 7
 Revesred string is : mahtarp
-
 */
