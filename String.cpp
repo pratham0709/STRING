@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
  
 using namespace std;
-int main() {
+int main(){
     
     string s1; //Always define like ""
     char c = 'a'; // Always in single ''
