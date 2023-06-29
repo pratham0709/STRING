@@ -22,6 +22,7 @@ int main(){
     
 }
 
+
 /* OUTPUT.....
 Please enter some text : 
 pratham
