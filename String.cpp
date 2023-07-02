@@ -18,7 +18,7 @@ int main(){
     
     reverse(s1.begin(), s1.end());
     
-    cout<<"Revesred string is : "<<s1<<endl;
+    cout<<"Revesred string is :"<<s1<<endl;
     
 }
 
